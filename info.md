@@ -19,5 +19,4 @@
 
 - You're now able to have a username
 
-###### Note: The game now takes time to load, this is because of the way I
-export the jar to have the sound work.
+###### Note: The game now takes time to load, this is because of the way I export the jar to have the sound work.
